@@ -1,9 +1,5 @@
-<a href="https://github.com/carlasama/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlasama&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/carlasama/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlasama&repo=convoychat" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlasama&layout=compact)](https://github.com/carlasama/github-readme-stats)
+
 
 - 👋 Hi, I’m @carlasama
 - 👀 I’m interested in ...
