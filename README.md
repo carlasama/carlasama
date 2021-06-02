@@ -1,4 +1,3 @@
-[![carlasama's Github Stats](https://enigmatic-harbor-42642.herokuapp.com/?name=carlasama&theme=react)](https://enigmatic-harbor-42642.herokuapp.com/?name=carlasama&theme=react)
 
 
 <h1 align="center">Hi</h1>
