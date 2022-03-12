@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🍄 skills (learning too): <strong>html, css, sass, javascript, typescript, angular.</strong>
+  🐈‍⬛ skills (learning too): <strong>html, css, sass, javascript, typescript, angular.</strong>
 </p>
 
 <p align="left">
