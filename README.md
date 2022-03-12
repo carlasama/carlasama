@@ -25,6 +25,6 @@
   <img src="https://img.shields.io/badge/-Gmail-000000?style=flat-square&labelColor=000000&logo=gmail&logoColor=white&link=carla.samaniego@estudante.ifms.edu.br" /></a>
 
   <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-000000?style=flat-square&logo=Linkedin&logoColor=white&link=carla-sama" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-000000?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/carla-sama" /></a>
   
 </p>  
