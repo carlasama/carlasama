@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
- ✨ appreciate: <strong>horror movies, nature, art, middle-earth, peace and quiet.</strong>
+ ✨ appreciate: <strong>horror movies, nature, art, middle-earth, games, peace and quiet.</strong>
 </p>
 
 <p align="left">
