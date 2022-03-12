@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/f2/f5/9a/f2f59a104cf7bd924619739784c3e399.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i.pinimg.com/originals/64/a4/30/64a43033a9cdc671095f774aceae8c98.gif" min-width="400px" max-width="400px" width="400px" align="left" alt="Computador iuriCode">
 
 <p align="left"> 
   front-end development && working to improve myself everyday.<br>
