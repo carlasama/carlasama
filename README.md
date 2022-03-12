@@ -1,4 +1,4 @@
-<img src="https://images.squarespace-cdn.com/content/v1/5ed9ae79e90be22a67c867fa/5001d68c-7f2b-49a7-a711-0975704b3f0e/oie_3042925V8jbLwxj.gif" min-width="400px" max-width="400px" width="200px" align="right" alt="Computador">
+<img src="https://camo.githubusercontent.com/76a250d705d0f0a7712c30a19af5196addb29323aa42180dfd235217872dd2f7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36342f61342f33302f36346134333033336139636463363731303935663737346163656165386339382e676966" min-width="400px" max-width="400px" width="300px" align="left" alt="Computador">
 
 <p align="left"> 
   front-end development && working to improve myself everyday.<br>
