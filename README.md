@@ -17,7 +17,7 @@
 </p></br>
 
 <p align="left">
-  💌 find me: ⤵️
+  💌 contact/find me: ⤵️
 </p>
 
 <p align="left">
