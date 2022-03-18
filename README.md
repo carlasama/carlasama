@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/76a250d705d0f0a7712c30a19af5196addb29323aa42180dfd235217872dd2f7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36342f61342f33302f36346134333033336139636463363731303935663737346163656165386339382e676966" min-width="400px" max-width="400px" width="300px" align="left" alt="Computador">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/27cd4863-d598-4477-a9ba-465230b134e0/ddr500r-3c3d4079-0101-4ff4-8d75-b19a2d39f8e9.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI3Y2Q0ODYzLWQ1OTgtNDQ3Ny1hOWJhLTQ2NTIzMGIxMzRlMFwvZGRyNTAwci0zYzNkNDA3OS0wMTAxLTRmZjQtOGQ3NS1iMTlhMmQzOWY4ZTkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RgmH-PUXEwGdhoWZmjPGPIk_kAD5LV9C-EWPlJWVQrA" min-width="400px" max-width="400px" width="300px" align="left" alt="Computador">
 
 <p align="left"> 
   front-end development && working to improve myself everyday.<br>
