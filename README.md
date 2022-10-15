@@ -1,15 +1,10 @@
-<p align="left"> 
-  front-end development && working to improve myself everyday.<br>
-</p>
+<img src="https://s4.gifyu.com/images/1f9d52617c1c1eba0dd3d983254887-unscreen.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
-<p align="left">
-  🐈‍⬛ skills: <strong>html5, css, sass, javascript, typescript, angularjs.</strong>
-</p>
+$\text{hello!}$ 
+$\mathfrak{\color{black}{im \ carla \ samaniego}}$
+```diff
+@@front-end developer@@
++ im from brazil / game and horror movies enthusiast
+! growing my knowledge day-to-day as a continuous learner
 
-<p align="left">
-  💼 tools: <strong>vscode, notion, figma, adobe, bitbucket, git and github, jira.</strong>
-</p>
-
-<p align="left">
- ✨ appreciate: <strong>horror movies, nature, art, middle-earth, games, peace and quiet.</strong>
-</p></br>
+```
