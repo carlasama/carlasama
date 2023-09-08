@@ -2,7 +2,7 @@
 @@front-end developer@@
 ```
 
-**Stack**: Vue.js, Vuex, Tailwind CSS, and JavaScript.
+**Stack**: Vue.js, Vuex, Tailwind CSS and JavaScript.
 
 I've accumulated several months of hands-on experience with Angular and TypeScript, but my current preference is Vue.js; it has become my framework of choice!
 
