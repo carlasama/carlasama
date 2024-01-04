@@ -1,5 +1,5 @@
 ```diff
-@@front-end developer@@
+@@ front-end developer @@
 ```
 
 **Current Stack**: Vue.js, Vuex, Tailwind CSS and JavaScript.
