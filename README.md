@@ -2,7 +2,7 @@
 @@ front-end developer @@
 ```
 
-**Current Stack**: Vue.js, Vuex, Tailwind CSS and JavaScript.
+**Current Stack**: Vue.js, Tailwind CSS, JavaScript and TypeScript.
 
 I've amassed several months of practical experience with Angular and TypeScript, but my current role primarily involves working with Vue.js, alongside Laravel, to seamlessly connect front-end and back-end systems.
 
