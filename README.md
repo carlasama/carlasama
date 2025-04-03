@@ -15,13 +15,3 @@
         |  o o o                 [-------]  |  /    _)_
         |__________________________________ |/     /  /
                                                  ( )/
-
-```bash
-# top
-PID    COMMAND          CPU      MEM     STATUS
-1337   Vue.js           90%      200MB   Active
-4200   TypeScript       85%      180MB   Active
-8080   Node.js          75%      220MB   Active
-3000   Express          70%      200MB   Active
-2025   React            40%      150MB   Learning Mode
-```
