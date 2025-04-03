@@ -5,7 +5,7 @@
           | |                       | |   > Vue.js | TypeScript/JavaScript | Node.js | Express | MongoDB
           | |                       | |  
           | |                       | |
-          |  \_____________________/  |   # curl -s https://github.com/carlasama | grep '🔥' | awk '{print "Keep coding!"}'
+          |  \_____________________/  |   # curl -s https://github.com/carlasama | grep '📟' | awk '{print "Keep coding!"}'
           |___________________________|
         ,---\_____     []     _______/------,
       /         /______________\           /|
