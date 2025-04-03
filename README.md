@@ -5,7 +5,7 @@
           |  /---------------------\  |
           | |                       | |   # whoami
           | |                       | |   > Software developer with a focus on front-end development
-          | |                       | |   > Vue.js | TypeScript/JavaScript | Node.js | Express | MongoDB
+          | |                       | |   > JavaScript/TypeScript | Vue.js | Node.js | Express | MongoDB
           | |                       | |   
           | |                       | |
           |  \_____________________/  |   # curl -s https://github.com/carlasama | grep '📟' | awk '{print "Keep coding!"}'
