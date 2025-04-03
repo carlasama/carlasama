@@ -1,7 +1,27 @@
-```diff
-@@ front-end developer @@
+              ,---------------------------,
+              |  /---------------------\  |
+              | |                       | |   # whoami
+              | |                       | |   > Hello! I'm Carla Samaniego, a software developer with a focus on front-end development.
+              | |                       | |   > Vue.js | TypeScript/JavaScript | Node.js | Express | MongoDB
+              | |                       | |  
+              | |                       | |
+              |  \_____________________/  |   # curl -s https://github.com/carlasama | grep '🔥' | awk '{print "Keep coding!"}'
+              |___________________________|
+            ,---\_____     []     _______/------,
+          /         /______________\           /|
+        /___________________________________ /  | ___
+        |                                   |   |    )
+        |  _ _ _                 [-------]  |   |   (
+        |  o o o                 [-------]  |  /    _)_
+        |__________________________________ |/     /  /
+                                                 ( )/
+
+```bash
+# top
+PID    COMMAND          CPU      MEM     STATUS
+1337   Vue.js           90%      200MB   Active
+4200   TypeScript       85%      180MB   Active
+8080   Node.js          75%      220MB   Active
+3000   Express          70%      200MB   Active
+2025   React            40%      150MB   Learning Mode
 ```
-
-I've amassed several months of practical experience with Angular and TypeScript, but my current role primarily involves working with Vue.js, alongside Laravel, to seamlessly connect front-end and back-end systems.
-
-Additionally, I'm deeply engaged in a personal project where I'm actively exploring Express.js and MongoDB. This endeavor allows me to further my understanding of server-side development and data modeling.
