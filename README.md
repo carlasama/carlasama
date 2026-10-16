@@ -4,7 +4,7 @@
           ,---------------------------,
           |  /---------------------\  |
           | |                       | |   # whoami
-          | |                       | |   > Software developer with a focus on front-end development
+          | |                       | |   > Software Developer
           | |                       | |   > JavaScript/TypeScript | Vue.js | Node.js | Express | MongoDB
           | |                       | |   
           | |                       | |
