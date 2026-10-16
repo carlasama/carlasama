@@ -5,7 +5,7 @@
           |  /---------------------\  |
           | |                       | |   # whoami
           | |                       | |   > Software Developer
-          | |                       | |   > JavaScript/TypeScript | Vue.js | Node.js | Express | MongoDB
+          | |                       | |   > JavaScript/TypeScript | Vue.js | Node.js | Express | PHP | Laravel
           | |                       | |   
           | |                       | |
           |  \_____________________/  |   # curl -s https://github.com/carlasama | grep '📟' | awk '{print "Keep coding!"}'
